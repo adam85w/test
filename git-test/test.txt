@@ -1,12 +1,7 @@
 Test
 2323
-<<<<<<< Upstream, based on origin/master
 333
-2323
-=======
-
 2323 1111111
->>>>>>> ddf0429 test
 
 wewewew
 jhjhjh iiii kkkkkkkkkkkkk
